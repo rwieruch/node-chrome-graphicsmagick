@@ -1,4 +1,4 @@
-FROM node:15.12 AS base
+FROM node:16.14 AS base
 
 # GM
 
